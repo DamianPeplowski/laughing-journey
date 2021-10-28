@@ -1,2 +1,2 @@
-# laughing-journey
+# Praca-domowa
 Praca domowa
